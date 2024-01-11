@@ -17,7 +17,7 @@ res_type: kb
 
 This article demonstrates how one can use [RadPopupEditor]({%slug winforms/editors/popupeditor/structure%}) as an editor in RadGridView. For example this will allow the end user to easily view or enter multi line text.
 
-# Solutionn
+# Solution
 
 The tricky part is that you should have an existing PopupContainer and set it contents dynamically. You need to use [RadHostitem]({%slug winforms/telerik-presentation-framework/elements/radtrackbarelement%}) as well.
 
